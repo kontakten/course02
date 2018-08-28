@@ -1,0 +1,7 @@
+C:\Users\admin\source\repos\kursus02\kursus02c\bin\Debug\kursus02c.exe.config
+C:\Users\admin\source\repos\kursus02\kursus02c\bin\Debug\kursus02c.exe
+C:\Users\admin\source\repos\kursus02\kursus02c\bin\Debug\kursus02c.pdb
+C:\Users\admin\source\repos\kursus02\kursus02c\obj\Debug\kursus02c.csprojAssemblyReference.cache
+C:\Users\admin\source\repos\kursus02\kursus02c\obj\Debug\kursus02c.csproj.CoreCompileInputs.cache
+C:\Users\admin\source\repos\kursus02\kursus02c\obj\Debug\kursus02c.exe
+C:\Users\admin\source\repos\kursus02\kursus02c\obj\Debug\kursus02c.pdb
